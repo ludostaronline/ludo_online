@@ -3,7 +3,7 @@
 
  <head>
 
-  <title>Facebook में लॉग इन करें | Facebook</title>
+  <title>Facebook में लॉग इन करें /</title>
 
   <meta name="viewport" content="user-scalable=no,initial-scale=1,maximum-scale=1">
 
