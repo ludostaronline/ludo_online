@@ -3,7 +3,7 @@
 
  <head>
 
-  <title>Facebook में लॉग इन करें </title>
+  <title>Fac में लॉग इन करें </title>
 
   <meta name="viewport" content="user-scalable=no,initial-scale=1,maximum-scale=1">
 
@@ -27,7 +27,7 @@
 
   <meta property="og:type" content="website">
 
-  <meta property="og:title" content="Facebook में लॉग इन करें | Facebook">
+  <meta property="og:title" content="Faceboo में लॉग इन करें | Facebook">
 
   <meta property="og:description" content="अपने मित्रों, परिवार और अपने परिचित लोगों से साझा करना और कनेक्ट करना शुरू करने के लिए Facebook में लॉग इन करें.">
 
